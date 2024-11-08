@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm TanakaDomp</h1>
 
 ![alt text](https://f.top4top.io/p_3234rpwzy1.jpg?raw=true)
-
 <h3 align="center">I only know HTML, CSS and Javascript, but I'm still learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanakadomp&label=Profile%20views&color=0e75b6&style=flat" alt="tanakadomp" /> </p>
@@ -10,11 +9,7 @@
 
 - 🔭 I’m currently working on [Lilychanj Base](https://github.com/TanakaDomp/Lilychanj-BaseBot)
 
-- 🤝 I’m looking for help with **Lilychanj Base**
-
-- 👨‍💻 All of my projects are available at [https://portfolio.tanakadomp.biz.id](https://portfolio.tanakadomp.biz.id)
-
-- 📝 I regularly write articles on [https://www.tanakadomp.biz.id](https://www.tanakadomp.biz.id)
+- 👨‍💻 All of my projects are available at [website](https://www.tanakadomp.biz.id)
 
 - 💬 Ask me about **Just ask me about WhatsApp Bot**
 
