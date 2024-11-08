@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm TanakaDomp</h1>
+
+![alt text](https://f.top4top.io/p_3234rpwzy1.jpg?raw=true)
+
 <h3 align="center">I only know HTML, CSS and Javascript, but I'm still learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanakadomp&label=Profile%20views&color=0e75b6&style=flat" alt="tanakadomp" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanakadomp" alt="tanakadomp" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tanakadomp" target="blank"><img src="https://img.shields.io/twitter/follow/tanakadomp?logo=twitter&style=for-the-badge" alt="tanakadomp" /></a> </p>
 
