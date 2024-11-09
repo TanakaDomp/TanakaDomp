@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [Lilychanj Base](https://github.com/TanakaDomp/Lilychanj-BaseBot)
 
-- 👨‍💻 All of my projects are available at [website](https://www.tanakadomp.biz.id)
+- 👨‍💻 All of my projects are available at [Website Domp](https://www.tanakadomp.biz.id)
 
 - 💬 Ask me about **Just ask me about WhatsApp Bot**
 
-- 📫 How to reach me **tanakasennstore@gmail.com**
+- 📫 How to reach me **tanakadomp@gmail.com**
 
 - ⚡ Fun fact **I just learned from YouTube 😂**
 
