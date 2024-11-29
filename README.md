@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm TanakaDomp</h1>
 
-![alt text](https://f.top4top.io/p_3234rpwzy1.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/TanakaDomp/uploder-db/main/uploads/1732848123493.jpeg?raw=true)
 <h3 align="center">I only know HTML, CSS and Javascript, but I'm still learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanakadomp&label=Profile%20views&color=0e75b6&style=flat" alt="tanakadomp" /> </p>
