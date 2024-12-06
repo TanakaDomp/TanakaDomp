@@ -1,6 +1,6 @@
 ### 🪐 About Me
 
-<img align="right" height="420" src="https://raw.githubusercontent.com/TanakaDomp/uploder-db/main/uploads/1733497409844.jpeg"  />
+<img align="right" height="240" src="https://raw.githubusercontent.com/TanakaDomp/uploder-db/main/uploads/1733497409844.jpeg"  />
 <div align="left">
 	
 - 🔭 I’m currently pursuing my Master's degree in Computer Science
